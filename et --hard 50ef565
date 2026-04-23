@@ -1,0 +1,25 @@
+[33m18bb1ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to 18bb1ad
+[33m18bb1ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: reset: moving to 18bb1ad
+[33m50ef565[m HEAD@{2}: Branch: renamed refs/heads/dev to refs/heads/main
+[33m50ef565[m HEAD@{4}: commit: day1+day2
+[33m18bb1ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{5}: reset: moving to HEAD~1
+[33mbb6733f[m HEAD@{6}: checkout: moving from main to dev
+[33mbb6733f[m HEAD@{7}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbb6733f[m HEAD@{9}: commit: day1+day2
+[33m18bb1ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{10}: Branch: renamed refs/heads/main to refs/heads/main
+[33m18bb1ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{12}: commit: day6
+[33m3cbca07[m HEAD@{13}: Branch: renamed refs/heads/main to refs/heads/main
+[33m3cbca07[m HEAD@{15}: commit: day5//50
+[33mbae69c1[m HEAD@{16}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbae69c1[m HEAD@{18}: commit: day5/50
+[33m47188ac[m HEAD@{19}: Branch: renamed refs/heads/main to refs/heads/main
+[33m47188ac[m HEAD@{21}: Branch: renamed refs/heads/main to refs/heads/main
+[33m47188ac[m HEAD@{23}: commit: day4/50
+[33m5bec7b7[m HEAD@{24}: Branch: renamed refs/heads/main to refs/heads/main
+[33m5bec7b7[m HEAD@{26}: commit: day3/50
+[33m126d5e2[m HEAD@{27}: Branch: renamed refs/heads/main to refs/heads/main
+[33m126d5e2[m HEAD@{29}: commit: day2/50
+[33m29eec23[m HEAD@{30}: Branch: renamed refs/heads/main to refs/heads/main
+[33m29eec23[m HEAD@{32}: commit: day1/50
+[33mf776e73[m HEAD@{33}: Branch: renamed refs/heads/main to refs/heads/main
+[33mf776e73[m HEAD@{35}: commit (initial): day1/50
