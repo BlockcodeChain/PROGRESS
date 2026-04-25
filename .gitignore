@@ -1,0 +1,3 @@
+# Ignore environment files  
+*.env  
+MERN_PROJECT/AUTHENTICATION_BACKEND/BACKEND/.env 
