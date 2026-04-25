@@ -6,7 +6,7 @@ function outer(){
     }
     return inner;
 }
-
+// closure
 outer()
 // const print=outer();
 // print()
